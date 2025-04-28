@@ -14,10 +14,16 @@ To write a program to prepare EMI calculator using function without return type 
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/47b44815-13db-4e98-a257-0cf1910481a9)
 
+
+# INPUT
+
+![image](https://github.com/user-attachments/assets/4941f371-cfc7-45f4-88e3-37e45eb895fa)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/9bcec3d8-a9f1-4532-ac85-32d7e5507020)
 
 
 
@@ -44,9 +50,14 @@ To write a C program to generate the Fibonacci series for the value 6.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/2c9531ce-dac7-499c-8594-064690559b35)
+
+
+
 ## OUTPUT
 
 
+![image](https://github.com/user-attachments/assets/fa774da7-a639-4f29-a93c-ceb88234f93e)
 
 
 
@@ -72,10 +83,16 @@ To write a C program to read n elements as input and print the last element of t
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/3a9a4926-fa29-47e7-9678-eabdae8bdac0)
+
+# INPUT
+![image](https://github.com/user-attachments/assets/c3ef5af5-6ec1-4f83-8b66-74a5316a8be7)
+
 ## OUTPUT
 
 
 
+![image](https://github.com/user-attachments/assets/7bbb9a4a-ab85-4422-aab6-04903809c9df)
 
 
 
@@ -101,10 +118,15 @@ To write a C Program to count total number of positive elements in an array.
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/f5f4fe45-c18d-4149-860e-73675a9e4e14)
+
+# INPUT
+![image](https://github.com/user-attachments/assets/656f2f44-6881-4235-b127-b86cb565aad8)
 
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/3b180702-e0ff-4d62-99b5-bb8cad1509b5)
 
 
 
@@ -137,9 +159,14 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  Print the updated array after replacements.
 
 ## Program:
+![image](https://github.com/user-attachments/assets/70051c2e-3863-410d-8a28-99113379febc)
+
+# INPUT
+![image](https://github.com/user-attachments/assets/3e5dac5c-ff13-47e6-a259-954b2f6e6431)
 
 ## Output:
  
+![image](https://github.com/user-attachments/assets/199b6d8a-0e2b-435f-9aa4-3dd48e1c90bb)
 
 
 ## Result:
